@@ -4,16 +4,18 @@ A curated collection of optimization constants $C$ in mathematics, often arising
 
 - Here is an initial blog post introducing the project: [A crowdsourced repository for optimization constants?](https://terrytao.wordpress.com/2026/01/22/a-crowdsourced-repository-for-optimization-constants/), 22 Terence Tao, January 2026.
 
-## List of Constants
+## Table of Constants
 
 We are arbitrarily numbering the constants as $C_1$, $C_2$, etc. based on the order in which the constants were added to the repository.
 
-1. [Sidon set autocorrelation constant](https://teorth.github.io/optimizationproblems/constants/1.html)
-2. [Erdős minimum overlap constant](https://teorth.github.io/optimizationproblems/constants/2.html)
-3. [A sum-difference constant](https://teorth.github.io/optimizationproblems/constants/3.html)
-4. [Cap set constant](https://teorth.github.io/optimizationproblems/constants/4.html)
-5. [A Sidon set constant](https://teorth.github.io/optimizationproblems/constants/5.html)
-6. [Union-closed sets conjecture constant](https://teorth.github.io/optimizationproblems/constants/6.html)
+| Number | Description | Best lower bound | Best upper bound |
+| ------ | ----------- | ---------------- | ---------------- |
+| [1](https://teorth.github.io/optimizationproblems/constants/1.html) | Sidon set autocorrelation constant | 1.2748 | 1.5029 |
+| [2](https://teorth.github.io/optimizationproblems/constants/2.html) | Erdős minimum overlap constant | 0.379005 | 0.380876 |
+| [3](https://teorth.github.io/optimizationproblems/constants/3.html) | A sum-difference constant | 1.173077 | 1.33333 |
+| [4](https://teorth.github.io/optimizationproblems/constants/4.html) | Cap set constant | 0.724851 | 0.782597 |
+| [5](https://teorth.github.io/optimizationproblems/constants/5.html) | A Sidon set constant | 0 | 0.97633 |
+| [6](https://teorth.github.io/optimizationproblems/constants/6.html) | Union-closed sets conjecture constant | 0.38271 | 0.5 |
 
 ## Maintainers
 
