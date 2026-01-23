@@ -10,7 +10,7 @@ We are arbitrarily numbering the constants as $C_1$, $C_2$, etc. based on the or
 
 | Number | Description | Best lower bound | Best upper bound |
 | ------ | ----------- | ---------------- | ---------------- |
-| [1](https://teorth.github.io/optimizationproblems/constants/1.html) | Sidon set autocorrelation constant | 1.2748 | 1.5029 |
+| [1](https://teorth.github.io/optimizationproblems/constants/1.html) | Sidon set autocorrelation constant | 1.2802 | 1.5029 |
 | [2](https://teorth.github.io/optimizationproblems/constants/2.html) | Erdős minimum overlap constant | 0.379005 | 0.380876 |
 | [3](https://teorth.github.io/optimizationproblems/constants/3.html) | A sum-difference constant | 1.173077 | 1.33333 |
 | [4](https://teorth.github.io/optimizationproblems/constants/4.html) | Cap set constant | 0.724851 | 0.782597 |
