@@ -30,7 +30,7 @@ We are arbitrarily numbering the constants as $C_1$, $C_2$, etc. based on the or
 | [18](https://teorth.github.io/optimizationproblems/constants/18.html) | Marton's conjecture constant (PFR) | 1 | 9 |
 | [19](https://teorth.github.io/optimizationproblems/constants/19.html) | The critical exponent for isoperimetric inequality on the hamming cube | 0.5 | 0.50057 |
 | [20](https://teorth.github.io/optimizationproblems/constants/20.html) | The Crouzeix constant | 2 | 11.08 |
-
+| [21](https://teorth.github.io/optimizationproblems/constants/21.html) | The Berry–Esseen constant | 0.4097321837 | 0.4690 |
 
 ## Maintainers
 
