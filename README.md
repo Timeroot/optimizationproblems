@@ -29,6 +29,7 @@ We are arbitrarily numbering the constants as $C_1$, $C_2$, etc. based on the or
 | [17](https://teorth.github.io/optimizationproblems/constants/17.html) | Exponential growth constant of diagonal Ramsey numbers | $\sqrt{2} \approx 1.4142$ | 3.7992027396 |
 | [18](https://teorth.github.io/optimizationproblems/constants/18.html) | Marton's conjecture constant (PFR) | 1 | 9 |
 | [19](https://teorth.github.io/optimizationproblems/constants/19.html) | The critical exponent for isoperimetric inequality on the hamming cube | 0.5 | 0.50057 |
+| [20](https://teorth.github.io/optimizationproblems/constants/20.html) | The Crouzeix constant | 2 | 11.08 |
 
 
 ## Maintainers
