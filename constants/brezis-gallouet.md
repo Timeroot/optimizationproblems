@@ -15,11 +15,13 @@ $$
 $$
 where the leading coefficient $\frac{1}{4\pi}$ is sharp (cannot be reduced).
 
-The constant $C_N = L$ is the **optimal additive remainder**: the infimum over all $L$ such that the above inequality holds for all admissible $u$ with $\delta(u) > 1$. Equivalently, $L$ is defined via the constrained extremal problem
+The constant $L$ is the **optimal additive remainder**: the infimum over all $L$ such that the above inequality holds for all admissible $u$ with $\delta(u) \geq 1$. Equivalently, $L$ is defined via the constrained extremal problem
 $$
 L = \max_{\delta \geq 1} \left[ 4\pi\Theta(\delta) - \ln\delta - \ln(1+\ln\delta) \right]
 $$
 where $\Theta(\delta) := \sup\bigl\{|u(0)|^2 : \|{\nabla u}\|_2^2 = 1,\, \|\Delta u\|_2^2 = \delta\bigr\}$.
+
+Note: $\delta(u) \geq 1$ for all zero-mean $u$ by the Poincaré inequality on $\mathbb T^2$, with equality for single-frequency modes.
 
 ## Known upper bounds
 
@@ -31,7 +33,7 @@ where $\Theta(\delta) := \sup\bigl\{|u(0)|^2 : \|{\nabla u}\|_2^2 = 1,\, \|\Delt
 
 | Bound | Reference | Comments |
 |---|---|---|
-| $L > \frac{\beta + \pi}{\pi} \approx 1.82283$ | [BDZ2013] | Rigorous; follows from asymptotic analysis showing the inequality fails at $L = L_\infty$ |
+| $L > \frac{\beta + \pi}{\pi} \approx 1.82283$ | [BDZ2013] | Rigorous; asymptotic expansion as $\delta \to \infty$ shows $L$ exceeds this limiting value |
 
 Here $\beta = \pi(2\gamma + 2\log 2 + 3\log\pi - 4\log\Gamma(1/4))$ where $\gamma$ is the Euler–Mascheroni constant.
 
@@ -47,7 +49,9 @@ Here $\beta = \pi(2\gamma + 2\log 2 + 3\log\pi - 4\log\Gamma(1/4))$ where $\gamm
 
 - [BG1980] Brezis, H.; Gallouet, T. *Nonlinear Schrödinger evolution equations.* Nonlinear Anal. 4 (1980), 677–681.
 - [BDZ2013] Bartuccelli, M. V.; Deane, J. H. B.; Zelik, S. *Asymptotic expansions and extremals for the critical Sobolev and Gagliardo–Nirenberg inequalities on a torus.* Proc. Roy. Soc. Edinburgh Sect. A 143 (2013), 445–482. [arXiv:1012.2061](https://arxiv.org/abs/1012.2061)
-- [MSW2010] Morii, K.; Sato, T.; Wadade, H. *Brézis–Gallouët–Wainger type inequality with a double logarithmic term in the Hölder space and its sharp constants.* J. Inequal. Appl. (2010).
+
+For related results in Hölder space settings, see:
+- [MSW2010] Morii, K.; Sato, T.; Wadade, H. *Brézis–Gallouët–Wainger type inequality with a double logarithmic term in the Hölder space: Its sharp constants and extremal functions.* Nonlinear Anal. 73 (2010), 1747–1766.
 
 ## Contribution notes
 
