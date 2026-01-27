@@ -43,7 +43,7 @@ We are arbitrarily numbering the constants as $C\_{1}$, $C\_{2}$, etc., mostly b
 | [24](https://teorth.github.io/optimizationproblems/constants/24a.html) | Komlós discrepancy constant | $1+\sqrt{2}$ | $\infty$ |
 | [25](https://teorth.github.io/optimizationproblems/constants/25a.html) | Mahler volume product constant | $\pi$ | 4 |
 | [26a](https://teorth.github.io/optimizationproblems/constants/26a.html) | Bohnenblust--Hille constant on the Boolean cube | $2$ | $\infty$ |
-
+| [27](https://teorth.github.io/optimizationproblems/constants/27a.html) | Chromatic number of the plane | 5 | 7 |
 
 
 
