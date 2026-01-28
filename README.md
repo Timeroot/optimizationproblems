@@ -15,7 +15,7 @@ We are arbitrarily numbering the constants as $C\_{1}$, $C\_{2}$, etc., mostly b
 | [2](https://teorth.github.io/optimizationproblems/constants/2a.html) | Crouzeix constant | 2 | $1+\sqrt{2} \approx 2.4142$ |
 | [3a](https://teorth.github.io/optimizationproblems/constants/3a.html) | Gyamarti-Hennecart-Ruzsa sum-difference constant | 1.173077 | 1.33333 |
 | [3b](https://teorth.github.io/optimizationproblems/constants/3b.html) | Kakeya sums-differences constant | >1.77898 | 1.83333 |
-| [4a](https://teorth.github.io/optimizationproblems/constants/4a.html) | Cap set constant | 0.724851 | 0.782597 |
+| [4a](https://teorth.github.io/optimizationproblems/constants/4a.html) | Cap set constant | 2.2202 | 2.756 |
 | [4b](https://teorth.github.io/optimizationproblems/constants/4b.html) | Furstenberg–Sárközy square-difference constant | 0.733412 | 1 |
 | [5](https://teorth.github.io/optimizationproblems/constants/5a.html) | Sidon set size constant | 0 | 0.97633 |
 | [6](https://teorth.github.io/optimizationproblems/constants/6a.html) | Union-closed sets conjecture constant | 0.38271 | 0.5 |
@@ -40,7 +40,7 @@ We are arbitrarily numbering the constants as $C\_{1}$, $C\_{2}$, etc., mostly b
 | [21](https://teorth.github.io/optimizationproblems/constants/21a.html) | de Bruijn–Newman constant | 0 | 0.2 |
 | [22a](https://teorth.github.io/optimizationproblems/constants/22a.html) | Tight knot constant | 1.105 | 10.76 |
 | [22b](https://teorth.github.io/optimizationproblems/constants/22b.html) | Tight alternating knot constant | 0.017 | 7.31 |
-| [23](https://teorth.github.io/optimizationproblems/constants/23a.html) | Smallest unsolved instance of the Hadamard conjecture | 688 | $\infty$ |
+| [23](https://teorth.github.io/optimizationproblems/constants/23a.html) | Smallest unsolved instance of the Hadamard conjecture | 668 | $\infty$ |
 | [24](https://teorth.github.io/optimizationproblems/constants/24a.html) | Komlós discrepancy constant | $1+\sqrt{2}$ | $\infty$ |
 | [25](https://teorth.github.io/optimizationproblems/constants/25a.html) | Mahler volume product constant | $\pi$ | 4 |
 | [26a](https://teorth.github.io/optimizationproblems/constants/26a.html) | Bohnenblust--Hille constant on the Boolean cube | $2$ | $\infty$ |
